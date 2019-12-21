@@ -16,6 +16,6 @@ Developers are often tasked with creating interfaces that make it easy for non-d
 
 - if they want to ADD a ROLE it will prompt them with what the title, salary, department, id number, and manager id number are. Once all info is added it will add the role.
 
--if they want to ADD and EMPLOYEE it will prompt them for the new employee's first and last name, role ID, and manager ID. Once all info is filled out it will add it to the employees table in the DB.
+- if they want to ADD and EMPLOYEE it will prompt them for the new employee's first and last name, role ID, and manager ID. Once all info is filled out it will add it to the employees table in the DB.
 
--if they would like UPDATE it will ask which employee they would like to update and will present them with a list of which role you would like to update their employee role to Engineer, Salesperson, Lawyer, or Accountant. Once the user choses a role it will update the employee to that role.
+- if they would like UPDATE it will ask which employee they would like to update and will present them with a list of which role you would like to update their employee role to Engineer, Salesperson, Lawyer, or Accountant. Once the user choses a role it will update the employee to that role.
